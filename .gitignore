@@ -1,0 +1,14 @@
+
+config/.debug
+
+config/.describe
+
+config/.lightning
+
+config/.local_store
+
+config/.settings
+
+*.sublime-project
+
+src/package.xml
